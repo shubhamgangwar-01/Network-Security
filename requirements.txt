@@ -9,5 +9,8 @@ dill
 pyaml
 mlflow
 dagshub
+fastapi
+uvicorn
+python-multipart
 
 #-e .
